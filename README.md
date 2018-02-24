@@ -1,4 +1,4 @@
-# io
+# Using Pipes to transfer data in Java
 I struggled with some problems which took me a while to understand and tackle. I thought of creating this project to dump some utilities that could help someone else who encounter similar situations as myself!
 
 The project for now has just one class called Pipe.
